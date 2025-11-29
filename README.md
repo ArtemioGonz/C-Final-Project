@@ -30,6 +30,11 @@ The **Personal Finance Manager** is a console application in C++ that allows you
 
 ---
 
+## Contact
+
+For questions or suggestions, feel free to contact me:
+
+**Artemio Gonzalez Garcia**
 
 ---
 
